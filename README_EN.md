@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Maintainer
 
-- ntbowen <ntbowen@example.com>
+- ntbowen <ntbowen2001@gmail.com>
 
 ## Contributing
 
