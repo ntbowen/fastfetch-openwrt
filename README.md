@@ -4,6 +4,8 @@
 
 [English](README_EN.md) | 中文
 
+<img width="712" alt="snapshot-fastfetch" src="https://github.com/user-attachments/assets/089db6a3-dbb6-4f98-bd47-e5f0dc50b1a9" />
+
 ## 简介
 
 FastFetch 是一个用 C 语言编写的系统信息显示工具，类似于 Neofetch，但速度更快、更加可定制。本项目是将 FastFetch 移植到 OpenWrt 平台上的版本。
