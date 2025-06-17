@@ -59,7 +59,7 @@ FastFetch 可以通过配置文件进行自定义。详细配置选项请参考 
 
 ## 维护者
 
-- ntbowen <ntbowen@example.com>
+- ntbowen <ntbowen2001@gmail.com>
 
 ## 贡献
 
