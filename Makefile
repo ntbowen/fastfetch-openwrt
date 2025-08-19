@@ -5,12 +5,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=fastfetch
-PKG_VERSION:=2.49.0
+PKG_VERSION:=2.50.2
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://github.com/fastfetch-cli/fastfetch/archive/refs/tags/
-PKG_HASH:=5c656581c6cb3061cf8648e2cd0cdf07abcf5f680fdc8bda935deece90b086a0
+PKG_HASH:=e59f2a2bdd5834ef40adb9fb6680820c268ff60ca0534469c5ea4b86775c83db
 PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)-$(PKG_VERSION)
 
 PKG_MAINTAINER:=ntbowen <ntbowen2001@gmail.com>
